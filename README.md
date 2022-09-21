@@ -1,6 +1,6 @@
 # Hey, I'm Kayra.
 
-By trade I'm a full stack engineer who cares about everything from design to dev-ops, but most of all **I care about the value being delivered to the user.** I'm a [product engineer](https://curiousest.com/product-engineer/). 
+I'm a full stack engineer who cares about everything from design to dev-ops, but most of all **I care about the value being delivered to the user.** I'm a [product engineer](https://curiousest.com/product-engineer/). 
 
 I'm currently working with [Cogent Labs](https://www.cogent.co.jp/en/) - an AI company - as a Principle Engineer in 🇯🇵 Tokyo.
 
