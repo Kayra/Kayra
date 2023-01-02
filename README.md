@@ -12,4 +12,4 @@ Feel free to:
 
 * 📖 Take a look at my [portfolio](https://kayra.io) to learn more about my experience and skill set.
 * 📸 View some of my [travel photos](http://metuo.io) and see if I've taken any pictures near you.
-* 📤 Shoot me a message on [Twitter](https://twitter.com/KayraAlat) or [LinkedIn](https://www.linkedin.com/in/kayraalat/) (ask me about how I back-fill my commits!).
+* 📤 Shoot me a message on [Twitter](https://twitter.com/KayraAlat) or [LinkedIn](https://www.linkedin.com/in/kayraalat/) (ask me about how I back-fill my commits).
